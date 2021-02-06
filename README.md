@@ -1,4 +1,4 @@
-### Hi there 👋
+![Rasik Fareeth Banner](https://raw.github.com/rasfarrf5/rasfarrf5/master/github.png)
 
 ## About me
 ```kotlin
