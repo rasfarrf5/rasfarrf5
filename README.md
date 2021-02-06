@@ -16,6 +16,7 @@ val aboutMe = developer {
 <br />
 <br />
 <br />
+
 **Languages and Tools:**
 
 <a href="https://www.java.com/en/">
@@ -32,6 +33,7 @@ val aboutMe = developer {
 </a>
 <br />
 <br />
+
 ### Reach me at:
 <a href="https://twitter.com/rasik_rf5">
   <img align="left" alt="Rasfar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
