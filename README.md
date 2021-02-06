@@ -11,12 +11,12 @@ val aboutMe = developer {
         LinkedIn = "https://www.linkedin.com/in/rasik-fareeth",
         Twitter = "https://twitter.com/rasik_rf5",
     }
+    others("CI/CD", "Test Driven Development")
 }
 ```
 <br />
 
-**Languages and Tools:**
-
+### Languages Known:
 <a href="https://www.java.com/en/">
   <img align="left" alt="Rasfar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
 </a>
