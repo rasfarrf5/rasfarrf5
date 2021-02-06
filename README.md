@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+## About me
+```kotlin
+val rasfarrf5 = developer {
+    about {
+        name = "Rasik Fareeth"
+        role = "Android Developer"
+    }
+    tech("Kotlin", "Java", "Springboot")
+    links {
+        LinkedIn = "https://www.linkedin.com/in/rasik-fareeth/"
+    }
+}
+```
+
+
 <!--
 **rasfarrf5/rasfarrf5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
