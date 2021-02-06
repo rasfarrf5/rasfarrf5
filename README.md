@@ -14,8 +14,6 @@ val aboutMe = developer {
 }
 ```
 <br />
-<br />
-<br />
 
 **Languages and Tools:**
 
@@ -32,7 +30,6 @@ val aboutMe = developer {
   <img align="left" alt="Rasfar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" />
 </a>
 <br />
-<br />
 
 ### Reach me at:
 <a href="https://twitter.com/rasik_rf5">
@@ -44,8 +41,10 @@ val aboutMe = developer {
 <a href="https://github.com/rasfarrf5">
   <img align="left" alt="Rasfar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
 <br />
 <br />
+
 <a href="https://github.com/rasfarrf5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasfarrf5&theme=light&hide_langs_below=1" />
 </a>
