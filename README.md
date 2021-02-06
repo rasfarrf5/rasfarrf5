@@ -23,7 +23,8 @@ val rasfarrf5 = developer {
 <a href="https://github.com/rasfarrf5">
   <img align="left" alt="Shekhar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+<br>
+<br>
 
 <a href="https://github.com/shekharAggarwal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasfarrf5&theme=light&hide_langs_below=1" />
