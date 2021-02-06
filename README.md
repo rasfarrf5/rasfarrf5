@@ -15,11 +15,21 @@ val aboutMe = developer {
 ```
 
 
-**Languages and Tools:**  
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"/></code>
+**Languages and Tools:**
+
+<a href="https://www.java.com/en/">
+  <img align="left" alt="Rasfar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
+</a>
+<a href="http://developer.android.com/">
+  <img align="left" alt="Rasfar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />
+</a>
+<a href="https://developer.android.com/kotlin">
+  <img align="left" alt="Rasfar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg" />
+</a>
+<a href="https://spring.io/projects/spring-boot">
+  <img align="left" alt="Rasfar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" />
+</a>
+
 
 ### Reach me at:
 <a href="https://twitter.com/rasik_rf5">
@@ -31,7 +41,6 @@ val aboutMe = developer {
 <a href="https://github.com/rasfarrf5">
   <img align="left" alt="Rasfar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
 
 
 <a href="https://github.com/rasfarrf5">
