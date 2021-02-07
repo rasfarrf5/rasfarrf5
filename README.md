@@ -1,4 +1,7 @@
-![Rasik Fareeth Banner](https://raw.github.com/rasfarrf5/rasfarrf5/master/{{ctx.theme}})
+::if ctx.theme == “dark”
+![Rasik Fareeth Banner](https://raw.github.com/rasfarrf5/rasfarrf5/master/dark.png)
+::else
+![Rasik Fareeth Banner](https://raw.github.com/rasfarrf5/rasfarrf5/master/light.png)
 
 ```kotlin
 val aboutMe = developer {
