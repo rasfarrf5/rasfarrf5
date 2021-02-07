@@ -1,9 +1,4 @@
-if {{ctx.theme}} == "dark"
-![Rasik Fareeth Banner](https://raw.github.com/rasfarrf5/rasfarrf5/master/dark.png)
-else
 ![Rasik Fareeth Banner](https://raw.github.com/rasfarrf5/rasfarrf5/master/light.png)
-
-{{ctx.theme}}
 
 ```kotlin
 val aboutMe = developer {
