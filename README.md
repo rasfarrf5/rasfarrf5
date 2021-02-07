@@ -1,4 +1,4 @@
-![Rasik Fareeth Banner](https://raw.github.com/rasfarrf5/rasfarrf5/master/github.png)
+![Rasik Fareeth Banner](https://raw.github.com/rasfarrf5/rasfarrf5/master/{{ctx.theme}}.png)
 
 ```kotlin
 val aboutMe = developer {
