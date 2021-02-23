@@ -1,4 +1,9 @@
-![Rasik Fareeth Banner](https://raw.github.com/rasfarrf5/rasfarrf5/master/light.png)
+![Android Logo](https://raw.github.com/rasfarrf5/rasfarrf5/master/android.png)
+
+Hello there, 
+##I'm Rasik Fareeth<br>
+Android Developer
+<br>
 
 ```kotlin
 val aboutMe = developer {
