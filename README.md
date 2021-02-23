@@ -24,11 +24,11 @@ val aboutMe = developer {
 
 ### Skill set:
 ```
-> Programming : Java, Kotlin, SpringBoot, Flutter(Beginner)
-> Platform : Android, macOS (Java / Kotlin), Windows (Java / Kotlin), 
-> Software IDE : Android Studio, IntelliJ, Visual Studio Code
-> Deployment Tool : CI/CD Jenkins automation
-> Designing : Adobe Photoshop
+Programming       : Java, Kotlin, SpringBoot, Flutter(Beginner)
+Platform          : Android, macOS (Java / Kotlin), Windows (Java / Kotlin)
+Software IDE      : Android Studio, IntelliJ, Visual Studio Code
+Deployment Tool   : CI/CD Jenkins automation
+Designing         : Adobe Photoshop
 ```
 
 <div align="center">
