@@ -7,17 +7,18 @@ Android Developer
 
 
 ```kotlin
-val aboutMe = developer {
-    about {
+class WhoAmI {
+    aboutMe(
         name = "Rasik Fareeth"
         role = "Android Developer"
-    }
+    )
+    
     tech("Kotlin", "Java", "SpringBoot")
-    links {
+    
+    externalLinks {
         LinkedIn = "https://www.linkedin.com/in/rasik-fareeth",
         Twitter = "https://twitter.com/rasik_rf5",
     }
-    others("CI/CD", "Test Driven Development")
 }
 ```
 <br />
