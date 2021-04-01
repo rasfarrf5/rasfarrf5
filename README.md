@@ -29,7 +29,7 @@ Programming       : Java, Kotlin, SpringBoot, Flutter(Beginner)
 Platform          : Android, macOS (Java / Kotlin), Windows (Java / Kotlin)
 Software IDE      : Android Studio, IntelliJ, Visual Studio Code
 Deployment Tool   : CI/CD Jenkins automation
-Designing         : Adobe Photoshop
+Designing         : Adobe Photoshop, Adobe Illustrator(Beginner)
 ```
 
 <div align="center">
