@@ -5,11 +5,12 @@ class WhoAmI {
         role = "Android Developer"
     )
     
-    tech("Kotlin", "Java", "SpringBoot")
+    tech { "Kotlin", "Java", "ReactJS, "SpringBoot", "Flutter" }
     
-    externalLinks {
-        LinkedIn = "https://www.linkedin.com/in/rasik-fareeth",
-        Twitter = "https://twitter.com/rasik_rf5",
+    "externalLinks" : {
+        linkedIn : "https://www.linkedin.com/in/rasik-fareeth",
+        twitter : "https://twitter.com/rasik_rf5",
+        personal_portfolio : "https://rasfarrf5.github.io/"
     }
 }
 ```
@@ -17,10 +18,10 @@ class WhoAmI {
 
 ### Skill set:
 ```
-Programming       : Java, Kotlin, SpringBoot, Flutter(Beginner)
+Programming       : Java, Kotlin, ReactJS, SpringBoot, Flutter
 Platform          : Android, macOS (Java / Kotlin), Windows (Java / Kotlin)
-Software IDE      : Android Studio, IntelliJ, Visual Studio Code
-Deployment Tool   : CI/CD Jenkins automation
+Software IDE      : Android Studio, IntelliJ, VSCode
+Deployment Tool   : CI/CD Jenkins automation, Gitlab
 Designing         : Adobe Photoshop, Adobe Illustrator(Beginner)
 ```
 
